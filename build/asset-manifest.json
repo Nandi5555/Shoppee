@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ecaaccd9.css",
+    "main.js": "/static/js/main.c81b900b.js",
+    "static/media/Shoppinglogo1.png": "/static/media/Shoppinglogo1.d23ede466a0d0aee6740.png",
+    "index.html": "/index.html",
+    "main.ecaaccd9.css.map": "/static/css/main.ecaaccd9.css.map",
+    "main.c81b900b.js.map": "/static/js/main.c81b900b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ecaaccd9.css",
+    "static/js/main.c81b900b.js"
+  ]
+}
